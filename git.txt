@@ -5,3 +5,6 @@ git add 文件名 把单独文件上传
 git commit -m 'add files for test' 提交文件
 git push origin master 同步到远程
 git diff 文件名 查看文件有哪些变化
+git brance -v查看版本号
+git rm 文件名 从本地仓库彻底删除一个文件,不可恢复
+git checkout -- 文件名 把删除的文件从远程恢复
