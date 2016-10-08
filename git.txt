@@ -2,3 +2,6 @@ git clone http......把远程项目同步到本地
 git status 查看文件夹状态
 git add ./ 把所有的文件增加到本地缓存
 git add 文件名 把单独文件上传
+git commit -m 'add files for test' 提交文件
+git push origin master 同步到远程
+git diff 文件名 查看文件有哪些变化
