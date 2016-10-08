@@ -1,0 +1,4 @@
+git clone http......把远程项目同步到本地
+git status 查看文件夹状态
+git add ./ 把所有的文件增加到本地缓存
+git add 文件名 把单独文件上传
